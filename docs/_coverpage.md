@@ -1,1 +1,1 @@
-# Fiance hub knowledge
+# Finance hub knowledge
