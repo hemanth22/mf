@@ -1,1 +1,1 @@
-# Finance hub knowledge
+# Finance Hub Knowledge
