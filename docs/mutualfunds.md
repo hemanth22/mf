@@ -1,15 +1,37 @@
 ## Mutual Funds
 
-As per SEBI guidelines on Categorization and Rationalization of schemes issued in October 2017, mutual fund schemes are classified as  
+A mutual fund is a professionally managed investment fund that pools money from many investors to purchase securities. 
+Mutual funds are very regulated.
 
-1. Equity Schemes
-2. Debt Schemes
-3. Hybrid Schemes
-4. Solution Oriented Schemes – For Retirement and Children
-5. Other Schemes – Index Funds & ETFs and Fund of Funds
+There are many types of funds
 
-– Under Equity category, Large, Mid and Small cap stocks have now been defined.
+- Equity Funds
+- Debt Funds
+- Hybrid Funds
+- Solution Oriented Schemes – For Retirement and Children
+- Other Schemes – Index Funds & ETFs and Fund of Funds
 
-– Naming convention of the schemes, especially debt schemes, as per the risk level of underlying portfolio (e.g., the erstwhile ‘Credit Opportunity Fund’ is now called “Credit Risk Fund”)
+### Types of Funds schema
 
-– Balanced / Hybrid funds are further categorised into conservative hybrid fund, balanced hybrid fund and aggressive hybrid fund.
+ - Open Ended funds
+ - Close Ended funds
+
+### Asset Invested
+
+- Equity Funds
+- Debt Funds
+- Hybrid Funds
+- Solution Oriented Schemes – For Retirement and Children
+
+### Investing Objective
+
+- SIP (Systematic Investment Payment)
+- SWP (Systematic Withdrawal Payment)
+- STP (Straight Through Payment)
+
+### Types of different caps
+
+- Large Cap Funds - Top 100 Companies
+- Mid Cap Funds - Top 101-250 Companies
+- Small Cap Funds - Top 251 Companies
+
