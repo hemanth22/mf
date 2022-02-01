@@ -8,3 +8,5 @@
 |4  | [Hybrid Mutual Finds](./Hybrid.md)  |
 |5  | [Other Mutual Finds](./Other.md)  |
 |6  | [Credit Rating](./ratings.md) |
+|7  | [Stock news collection](./stocksnews.md) |
+|8  | [Reference](./Reference.md) |
