@@ -1,6 +1,6 @@
 ## Stocks news Collections
 
-### PYT 04-02-2022:
+## PYT 04-02-2022:
 
 - Russia war with ukrain impacts below materials demand
   - Crude Oil (ONGC, etc.)
