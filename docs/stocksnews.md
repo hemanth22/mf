@@ -39,3 +39,40 @@ News:
 - Vodaphone idea don't buy
 - TD Power buy points, 350 for investment
 - Genus Power not clear
+
+### PYT 03-02-2022:
+
+News
+
+- Spandana Spoorthi 20% management concerns grown
+- Canara Bank, buy point 240, target 290, if breached it will above 300
+- Force motors, initially it was lead, but now under performing stock
+- JBM Auto Ltd, good performing, EV team
+- Olectra Greentech Ltd, good stock with foreign promoters
+- SMS Pharma to hold, so far performing stock
+- TATA Motor is a good stock and second largest player and business tranformation
+- Prokarma good, hold
+- Poonawala is good, 225-240 buy more
+- Nykaa is good still trading at permium level
+- Kalyan Jewels is hold, expected to increase
+- Dilip Buildcon good to profit booking, looks like corporate issue impact
+- GIC, Suryodaya Small Finance Bank now a bad performance
+- ICICI Loamboard is far good 
+- Axis bank strong trading stock 740 buy point 
+- Heramba stock decemeber result good, buy when there is correction, buy 640 target, 852 target wait
+- Aro Granite, wait and watch, Q4 have a check,exit at 74 rally
+- TATA Steel hold, partial profile, at 1300
+- IEX hold 189-255, if breached 250 then it will be above 300 
+- Deepak Fertilizer, buy at 605-585, 570 stop loss
+- Laxmi Organics in good circuits
+- Andhra Petro, hold there was raw material concern, but result is expected to grow
+- KPIT, next entry point, 570 buy point
+- Lupin, hold, but bulish on pharma space
+- Zensar Technologies will have under performance, not to buy now
+- Cochin Shipyard hold, under performing stock, if aircraft is launched then can see growth, 365 buy point
+- Indian Acrylics as of now hold
+- SRF, front line, bulish and expected to be outperformed
+- Navin Flourine, no news 
+- Balaji Amines good results, hold and stock to watch
+- Alkyl Amines, no news
+
