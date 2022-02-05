@@ -14,7 +14,8 @@ Here fund managers switch between the funds based on market.
 ||75% to 90% in Debt instruments|
 |Balanced Hybrid Fund|	40% to 60% investment in equity & equity related instruments; and
 ||40% to 60% in Debt instruments|
-|Dynamic Asset Allocation or Balanced Advantage Fund|	Investment in equity/ debt that is managed dynamically (0% to 100% in equity & equity related instruments; and
+|Dynamic Asset Allocation or Balanced Advantage Fund|	Investment in equity/ debt that is managed dynamically (0% to 100% in equity &
+||equity related instruments; and|
 ||0% to 100% in Debt instruments)|
 |Equity Savings|	Equity and equity related instruments (min.65%);|
 ||debt instruments (min.10%) and|
