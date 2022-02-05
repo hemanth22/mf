@@ -24,7 +24,7 @@
 |Corporate Bond Fund|	Minimum 80% investment in corporate bonds only in AA+ and above rated corporate bonds|
 |Credit Risk Fund|	Minimum 65% investment in corporate bonds, only in AA and below rated corporate bonds|
 
-How Debt funds work
+## How Debt funds work
 
 |Bond Vs Price||
 |---|---|
