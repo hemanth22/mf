@@ -22,3 +22,7 @@ Here fund managers switch between the funds based on market.
 ||derivatives (min. for hedging to be specified in the SID)|
 |Multi Asset Allocation Fund|	Investment in at least 3 asset classes with a minimum allocation of at least 10% in each asset class|
 |Arbitrage Fund|	Scheme following arbitrage strategy, with minimum 65% investment in equity & equity related instruments|
+
+## Risk Graph
+
+![alt-text](https://raw.githubusercontent.com/hemanth22/Images/master/AWSJenkinsWebhook.png "Hybrid")

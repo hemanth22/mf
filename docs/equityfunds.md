@@ -23,3 +23,7 @@
 3. how tax is calculated
 
 Tax = ((Princial Amount) - (1lakh profit) - (remaining capital gain))
+
+## Risk Graph
+
+![alt-text](https://raw.githubusercontent.com/hemanth22/Images/master/AWSJenkinsWebhook.png "Equity")
