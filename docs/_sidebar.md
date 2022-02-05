@@ -2,4 +2,5 @@
 * [Mutual Funds](./mutualfunds.md)
 * [Equity Mutual Finds](./equityfunds.md)
 * [Credit Rating](./ratings.md)
+* [Debt Mutual Finds](./Debt.md)
 * [Stock news collection](./stocksnews.md)
