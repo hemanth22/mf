@@ -40,7 +40,7 @@ News:
 - TD Power buy points, 350 for investment
 - Genus Power not clear
 
-### PYT 03-02-2022:
+## PYT 03-02-2022:
 
 News
 
