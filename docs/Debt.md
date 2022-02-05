@@ -32,4 +32,4 @@
 
 ## Risk Graph
 
-![alt-text](https://raw.githubusercontent.com/hemanth22/Images/master/AWSJenkinsWebhook.png "Debt")
+![alt-text](https://raw.githubusercontent.com/hemanth22/mf/main/docs/assets/DebtFunds.jpeg "Debt")

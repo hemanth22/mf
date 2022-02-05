@@ -26,4 +26,4 @@ Tax = ((Princial Amount) - (1lakh profit) - (remaining capital gain))
 
 ## Risk Graph
 
-![alt-text](https://raw.githubusercontent.com/hemanth22/Images/master/AWSJenkinsWebhook.png "Equity")
+![alt-text](https://raw.githubusercontent.com/hemanth22/mf/main/docs/assets/EquityFunds.jpeg "Equity")

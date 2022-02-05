@@ -25,4 +25,4 @@ Here fund managers switch between the funds based on market.
 
 ## Risk Graph
 
-![alt-text](https://raw.githubusercontent.com/hemanth22/Images/master/AWSJenkinsWebhook.png "Hybrid")
+![alt-text](https://raw.githubusercontent.com/hemanth22/mf/main/docs/assets/HybridFunds.jpeg "Hybrid")
