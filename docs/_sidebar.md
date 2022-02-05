@@ -1,6 +1,7 @@
 * [Home](/?id=table-of-contents) 
 * [Mutual Funds](./mutualfunds.md)
 * [Equity Mutual Finds](./equityfunds.md)
+* [Hybrid Mutual Finds](./Hybrid.md)
 * [Credit Rating](./ratings.md)
 * [Debt Mutual Finds](./Debt.md)
 * [Stock news collection](./stocksnews.md)
