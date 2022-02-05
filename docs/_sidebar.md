@@ -3,7 +3,7 @@
 * [Equity Mutual Finds](./equityfunds.md)
 * [Debt Mutual Finds](./Debt.md)
 * [Hybrid Mutual Finds](./Hybrid.md)
-* [Credit Rating](./ratings.md)
 * [Other](./Other.md)
+* [Credit Rating](./ratings.md)
 * [Stock news collection](./stocksnews.md)
 * [Reference](./Reference.md)
