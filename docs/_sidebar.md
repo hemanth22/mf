@@ -7,3 +7,4 @@
 * [Credit Rating](./ratings.md)
 * [Stock news collection](./stocksnews.md)
 * [Reference](./Reference.md)
+* [OtherGoodies](./OtherGoodies.md)
