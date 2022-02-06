@@ -10,3 +10,4 @@
 |6  | [Credit Rating](./ratings.md) |
 |7  | [Stock news collection](./stocksnews.md) |
 |8  | [Reference](./Reference.md) |
+|9  | [OtherGoodies](./OtherGoodies.md) |
