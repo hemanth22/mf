@@ -7,3 +7,6 @@
 3. __SUPPLIERS:__ Get details about company through suppliers (example: tijori)
 4. __CUSTOMERS:__ Get details about company from customers (Google feedbacks)
 
+![alt-text](https://raw.githubusercontent.com/hemanth22/mf/main/docs/assets/Philip%20Fisher's%20checklist.png "Debt")
+
+Learnt from Moneypurse: https://www.youtube.com/watch?v=0Zp4XUeahyQ
