@@ -58,3 +58,7 @@
 - ValuePickr
 - Multipie
 
+
+### STOCK MARKET ABBREVIATIONS
+- [STOCK MARKET ABBREVIATIONS] https://learnandearnacademy.in/stock-market-abbreviations/  
+ 
