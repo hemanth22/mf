@@ -14,7 +14,8 @@
 
   - Life Insurance Corporation
   - Tata Power
-  - Adani Wilmer
+  - Adani Total Gas Ltd
+  - Motherson sumi
   - IRCTC
   - Mphasis
 
