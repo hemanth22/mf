@@ -4,19 +4,20 @@
 
 - stocks expected to remove
 
-  - Lupin Ltd
-  - Jubilant Foodworks
   - Zydus Lifesciences
-  - Punjab National Bank
+  - Jubilant Foodworks
   - Steel Authority of India and Adani Enterprises
+  - Punjab National Bank
+  - Lupin Ltd
+  - Mindtree
 
 - stocks expected to add
 
-  - Life Insurance Corporation
-  - Tata Power
   - Adani Total Gas Ltd
-  - Motherson sumi
   - IRCTC
+  - BEL
+  - HAL
+  - Motherson Sumi Systems Limited
   - Mphasis
 
 ## PYT 04-02-2022:
