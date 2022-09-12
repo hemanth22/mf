@@ -1,5 +1,23 @@
 ## Stocks news Collections
 
+## Nifty Next 50 index rebalancing date: 30 september
+
+- stocks expected to remove
+
+  - Lupin Ltd
+  - Jubilant Foodworks
+  - Zydus Lifesciences
+  - Punjab National Bank
+  - Steel Authority of India and Adani Enterprises
+
+- stocks expected to add
+
+  - Life Insurance Corporation
+  - Tata Power
+  - Adani Wilmer
+  - IRCTC
+  - Mphasis
+
 ## PYT 04-02-2022:
 
 - Russia war with ukrain impacts below materials demand
