@@ -11,3 +11,4 @@
 |7  | [Stock news collection](./stocksnews.md) |
 |8  | [Reference](./Reference.md) |
 |9  | [OtherGoodies](./OtherGoodies.md) |
+|10 | [Term Insurence](./TermInsurence.md) |
