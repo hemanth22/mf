@@ -15,3 +15,16 @@ Ditto Insurance
 
 While buying term policy, submit Marriage Women's Property Act (MWP) 1874 to protect term insurance
 
+### Add-ons benefits to buy in term plan
+
+1. Accident Death Benefits
+2. Accident Permanent Disability Benefits
+3. Critical Illiness Benefit Riders
+
+### Parameters to check before buying term insurance
+
+1. Claim Settlement Ratio
+2. Amount Settlement Ratio
+3. Claim Rejection Ratio
+4. Solvency Ratio (>=150%)
+
