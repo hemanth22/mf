@@ -28,3 +28,15 @@ While buying term policy, submit Marriage Women's Property Act (MWP) 1874 to pro
 3. Claim Rejection Ratio
 4. Solvency Ratio (>=150%)
 
+### Declare illness and habbits
+
+if not declared, insurance found that illness and habbit, 
+they will reject the policy and money will not be returned
+
+Every time file the first diagnosis report when found.
+
+### Things to check after buying term policy document
+
+1. Review your term policy document
+2. if there are issues in the term policy, can reject and ask for money back
+3. You will have free look period for 15 days to reject the term policy
