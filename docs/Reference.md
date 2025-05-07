@@ -16,6 +16,9 @@
 - https://www.screener.in/
 - https://www.morningstar.in/ (mutual funds rating)
 - https://www.valueresearchonline.com/  (mutual funds rating)
+- https://www.chittorgarh.com/ (IPO and NCD related)
+- https://capitalmarket.com/ (Market Info)
+- https://stockedge.com/  
 
 ### Equity Research Reports:
 
