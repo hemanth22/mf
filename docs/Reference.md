@@ -58,8 +58,10 @@
 
 ### Online forum:
 
-- ValuePickr
-- Multipie
+- [multipie](https://www.multipie.co/)  
+- [valuepickr Website](https://www.valuepickr.com/)  
+- [valuepickr Forum](https://forum.valuepickr.com/)  
+
 
 
 ### STOCK MARKET ABBREVIATIONS
