@@ -23,7 +23,7 @@
 ### Instant Access Facility (IAF) in Mutual Funds
 
 
-#### Update on 2017
+### Update on 2017
 
 The Instant Access Facility (IAF) enables mutual fund investors to quickly access their invested funds in specific schemes. It ensures that redemption proceeds are credited to the investor's bank account on the same day the redemption request is made. This facility aims to provide investors with quick access to their investments (up to a certain limit) to address urgent financial needs.
 
@@ -38,7 +38,7 @@ For further details, please see the SEBI circular SEBI/HO/IMD/DF2/CIR/P/2017/39 
 https://mism.org/pointer/instant-access-facility-iaf-in/  
 
 
-#### Update on 2021
+### Update on 2021
 
 Sebi allows mutual funds to offer instant access facility in overnight funds  
 
@@ -54,7 +54,7 @@ Source: https://www.livemint.com/mutual-fund/loan-against-mutual-funds-how-it-wo
 
 For further details, please see the SEBI circular SEBI/HO/IMD/IMD-II DOF3/P/CIR/2021/608 dated Jul 30, 2021 [link](https://www.sebi.gov.in/legal/circulars/jul-2021/deployment-of-unclaimed-redemption-and-dividend-amounts-and-instant-access-facility-in-overnight-funds_51513.html#)  
 
-#### Overdraft in HOME LOANS
+### Overdraft in HOME LOANS
 
 A home loan overdraft facility is a flexible borrowing option that links your home loan to a current or savings account, allowing you to deposit surplus funds and reduce your interest burden.  
 
