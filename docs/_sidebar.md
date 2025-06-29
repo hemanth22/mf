@@ -9,3 +9,5 @@
 * [Reference](./Reference.md)
 * [OtherGoodies](./OtherGoodies.md)
 * [Term Insurence](./TermInsurence.md)
+* [ETF Check list](./ETFsChecklist.md)
+* [Bank Saving alternative](./BankSavingalternatives.md)

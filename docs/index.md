@@ -12,3 +12,5 @@
 |8  | [Reference](./Reference.md) |
 |9  | [OtherGoodies](./OtherGoodies.md) |
 |10 | [Term Insurence](./TermInsurence.md) |
+|11 | [ETF Check list](./ETFsChecklist.md) |
+|12 | [Bank Saving alternative](./BankSavingalternatives.md) |
